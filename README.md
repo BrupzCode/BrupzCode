@@ -1,7 +1,9 @@
 ### 👋 Olá, eu sou a Bruna!
 
 🔍 Em transição de carreira para **QA (Quality Assurance)**
+
 🎓 Formada em Análise e Desenvolvimento de Sistemas (ADS) - UNIP
+
 💼 Atualmente na área administrativa, migrando para Tech
 
 ---
