@@ -35,8 +35,6 @@
 
 ### 📊 GitHub Stats
 
-
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=BrupzCode&show_icons=true&theme=radical)
 
 ### 📫 Como me encontrar
