@@ -33,10 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BrupzCode&show_icons=true&theme=radical)
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-cordeiro-16991b212) 
